@@ -30,6 +30,6 @@
 <p align="center">
 
 <a href="https://karthikperformante.com/"><img alt="Website" src="https://img.shields.io/badge/Website-karthikperformante.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/karthik2502/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-karthik2502__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/karthik2502/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-karthik2502_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:karthik2502@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karthik2502@protonmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
