@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I sell cars for a living.
-- ✍️ &nbsp; I have been writing front end code for side projects for a while now.
-- 🤔 &nbsp; I find product management quite fascinating. I like making low fidelity wireframes and coming up with quirky product ideas. I have done this for like 20 something products where I create wireframes, explain the problem statement and its value proposition, define clear objectives, come up with use cases and build a business canvas.
+- ✍️ &nbsp; I write front end code for javascript powered web apps when I am not trying to earn a living. I'm a blockchain newbie as well, specifically Ethereum.
+- 🤔 &nbsp; I find product management quite fascinating. I like designing wireframes/prototypes for quirky product ideas that are sellable. I have done this for like 20 odd projects where I create wireframes, explain the problem statement and its value proposition, define clear objectives, come up with use cases and build a business canvas.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
