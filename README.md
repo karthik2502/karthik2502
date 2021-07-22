@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I sell cars for a living.
-- ✍️ &nbsp; I write front end code, mostly ReactJS, when I am not chasing people to make a sale. 
-- 🤔 &nbsp; I would conveniently say that I have a thing for product management😜. I like designing prototypes for quirky product ideas that are sellable. I create wireframes, explain the problem statement and its value proposition, define clear objectives, come up with use cases and build a business canvas. Check out the design/product ideas tab on my personal website to view examples.
+- ✍️ &nbsp; I like writing front end code, mostly javascript, when I am not chasing random strangers to make a sale. 
+- 🤔 &nbsp; I would conveniently say that I have a thing for product management😜. I like designing prototypes for quirky product ideas that are sellable. Check out the product ideas tab on my website where I create wireframes, explain the problem statement and value proposition, define clear objectives, use cases and build a business canvas for a variety of apps and software products.
 - 🧩 &nbsp; I am learning blockchain programming as well since I have too much time on my hands.
 
 
