@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I sell automobiles for a living.
-- ✍️ &nbsp; I write front end code, mostly reactjs. 
-- 🤔 &nbsp; I like designing prototypes and have taken a liking to Figma lately.
+- ✍️ &nbsp; I also write front end code, mostly reactjs. 
+- 🤔 &nbsp; I have taken a liking to Figma lately to design app prototypes.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
