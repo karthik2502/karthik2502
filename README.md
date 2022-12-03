@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I sell cars for a living.
-- ✍️ &nbsp; I like writing front end code, mostly javascript, when I am not chasing random strangers to make a sale. 
-- 🤔 &nbsp; I have a thing for product management😜. I like designing prototypes for quirky product ideas that are sellable. Check out the product ideas tab on my website where I start with creating wireframes, explain the problem statement and value proposition, define objectives, use cases and build a business canvas.
-- 🧩 &nbsp; I am a blockchain newbie too. Ethereum specifically!
+- 💼 &nbsp; I sell automobiles for a living.
+- ✍️ &nbsp; I write front end code, mostly reactjs. 
+- 🤔 &nbsp; I like designing prototypes and have taken a liking to Figma lately.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
